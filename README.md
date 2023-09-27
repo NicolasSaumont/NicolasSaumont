@@ -4,6 +4,15 @@
 </div>  
 <h3 align="center">I'm a front-end developer 👨‍💻 based in France, for whom fun is as important as hard work 🚀</h3>
 
+<p align="center">
+ <a href="https://www.nicolassaumont.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="nicolas saumont website" />
+ </a>
+ <a href="https://linkedin.com/in/nicolas-saumont" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nicolas saumont linkedin"/>
+ </a>
+</p>
+
 <img align="right" width="250" src="./assets/programmer.gif" alt="Coding gif" />
 
 - 🔭 I’m currently working on [CV Adventure](https://github.com/NicolasSaumont/cv_adventure)
