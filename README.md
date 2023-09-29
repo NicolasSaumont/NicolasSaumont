@@ -17,7 +17,9 @@
 
 - 🔭 I’m currently working on [CV Adventure](https://github.com/NicolasSaumont/cv_adventure)
 
-- 🌱 I’m currently learning **React, Nextjs**
+- 🌱 I’m currently learning **React, Nextjs, Redux**
+
+- 🚀 I can't wait to learn **Vuejs, Laravel**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://www.portfolio.nicolassaumont.com/)
 
