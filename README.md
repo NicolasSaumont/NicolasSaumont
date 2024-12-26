@@ -15,11 +15,11 @@
 
 <img align="right" width="250" src="./assets/programmer.gif" alt="Coding gif" />
 
-- 🔭 I’m currently working on [CV Adventure](https://github.com/NicolasSaumont/cv_adventure)
+- 🔭 I’m currently working on [Gundan](https://github.com/NicolasSaumont/gundan)
 
-- 🌱 I’m currently learning **React, Nextjs, Redux**
+- 🌱 I’m currently learning **Vuejs, Nuxt**
 
-- 🚀 I can't wait to learn **Vuejs, Laravel**
+- 🚀 I can't wait to learn **Laravel**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://www.portfolio.nicolassaumont.com/)
 
